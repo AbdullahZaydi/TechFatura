@@ -2,7 +2,7 @@
   "name": "tech-fatura",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AbdullahZaydi.github.io",
+  "homepage": "https://AbdullahZaydi.github.io/TechFatura",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.7",
     "@chakra-ui/react": "^1.8.8",
