@@ -1,7 +1,7 @@
 {
   "main.css": "/TechFatura/static/css/main.24ad513d.chunk.css",
-  "main.js": "/TechFatura/static/js/main.ffe82ac4.chunk.js",
-  "main.js.map": "/TechFatura/static/js/main.ffe82ac4.chunk.js.map",
+  "main.js": "/TechFatura/static/js/main.20cc9ba0.chunk.js",
+  "main.js.map": "/TechFatura/static/js/main.20cc9ba0.chunk.js.map",
   "runtime~main.js": "/TechFatura/static/js/runtime~main.bdcdb9c5.js",
   "runtime~main.js.map": "/TechFatura/static/js/runtime~main.bdcdb9c5.js.map",
   "static/js/2.56cae8aa.chunk.js": "/TechFatura/static/js/2.56cae8aa.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.42730869.chunk.js": "/TechFatura/static/js/3.42730869.chunk.js",
   "static/js/3.42730869.chunk.js.map": "/TechFatura/static/js/3.42730869.chunk.js.map",
   "index.html": "/TechFatura/index.html",
-  "precache-manifest.8756e1ba8b3da4f0e1e8756b28e4b7f5.js": "/TechFatura/precache-manifest.8756e1ba8b3da4f0e1e8756b28e4b7f5.js",
+  "precache-manifest.fd6f4930748a5297e0e554d0bd2e224b.js": "/TechFatura/precache-manifest.fd6f4930748a5297e0e554d0bd2e224b.js",
   "service-worker.js": "/TechFatura/service-worker.js",
   "static/css/main.24ad513d.chunk.css.map": "/TechFatura/static/css/main.24ad513d.chunk.css.map",
   "static/media/app.css": "/TechFatura/static/media/CircularStd-Light.0d87e691.otf",

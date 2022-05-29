@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "87e07a14d00d2ceb069f",
+    "revision": "5049ca33f288cb595c84",
     "url": "/TechFatura/static/css/main.24ad513d.chunk.css"
   },
   {
-    "revision": "87e07a14d00d2ceb069f",
-    "url": "/TechFatura/static/js/main.ffe82ac4.chunk.js"
+    "revision": "5049ca33f288cb595c84",
+    "url": "/TechFatura/static/js/main.20cc9ba0.chunk.js"
   },
   {
     "revision": "98944c191cde5a5943ba",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/TechFatura/static/media/CircularStd-BlackItalic.0cda47fe.otf"
   },
   {
-    "revision": "269db519c0a09543c627eea724bfa0ec",
+    "revision": "2b56752a040de5e2ed6a4e5fae0d11b5",
     "url": "/TechFatura/index.html"
   }
 ];
